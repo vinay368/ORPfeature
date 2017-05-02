@@ -12,6 +12,7 @@ and open the template in the editor.
     <body>
         <?php
         // put your code here
+        //add code in feature 1
         ?>
     </body>
 </html>
