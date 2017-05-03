@@ -13,6 +13,7 @@ and open the template in the editor.
         <?php
         // put your code here
         //add code in feature 1
+        //add code in master
         ?>
     </body>
 </html>
